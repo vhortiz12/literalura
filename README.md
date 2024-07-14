@@ -39,7 +39,7 @@ Challenge Literalura es una aplicación diseñada para gestionar libros y autore
     ```
 2. **Navega al directorio del proyecto**:
     ```sh
-    cd challenge-literalura
+    cd literalura
     ```
 3. **Compila y ejecuta la aplicación**:
     ```sh
