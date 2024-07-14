@@ -35,7 +35,7 @@ Challenge Literalura es una aplicación diseñada para gestionar libros y autore
 
 1. **Clona el repositorio**:
     ```sh
-    git clone https://github.com/tu-usuario/challenge-literalura.git
+    git clone https://github.com/vhortiz12/literalura.git
     ```
 2. **Navega al directorio del proyecto**:
     ```sh
